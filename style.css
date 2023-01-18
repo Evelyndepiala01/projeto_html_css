@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    background: hwb(0 79% 20% / 0.689) ;
+}
+ 
+
+.div_principal {
+    padding: 55px;
+}  
+
+h2{
+text-align: center;
+margin-left: 550;
+}
+
+
+.p6 {
+    
+    text-align: center;
+}    
+
+h3 {
+    text-align: center;
+    color: #a020fa;
+}
+
+em { 
+    text-align: center;
+   color: rgb(116, 22, 204);
+}
+
+.text { 
+    text-align: center;
+}
+
+.div_main {
+    padding: 20px 25px 5px;
+    text-align: center; 
+}
+
+.div_main_test {
+    padding: 5px; 
+    margin: 15px;
+}
+
+
+.cards_footer {
+    padding: 55px;
+    background: fixed #b19cd9;
+    height: 520px;
+}
+
+.pqteamo_first {
+    position: absolute;
+    left: 50%;
+} 
+
+.pqteamo_second { 
+     position: absolute; 
+     right: 50%;
+}
+
+.ul_test {
+    font-style: italic;
+    list-style-type: none;
+    border: #f307df 0.5px solid;
+    border-radius: 5px;
+    padding: 40px;
+    margin: 35px;
+    width: 220px;
+    height: 250px;
+ }
+
+
+.love {
+    background: fixed #e0b0ff;
+    padding: 55px 215px 55px;
+}
+
+.love h1 {
+    padding: 20px;
+    color:rgb(91, 11, 161);
+    text-align: center;
+}
+
+
+.p11 {
+    text-align: center;
+}
+
+.topo {
+    padding: 15px 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blueviolet;
+  }
+  
+.footer {
+    background: fixed #e0b0ff;
+    height: 40%;
+    justify-content: center;
+    display: flex;
+    padding: 40px;
+}
+
+.footer i {
+    padding-left: 35px;
+}
+
+.natih  {
+    font-size: 45px
+}
